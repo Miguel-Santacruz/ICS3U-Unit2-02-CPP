@@ -27,8 +27,8 @@ int main() {
 
     // Output
 
-    std::cout << "The area of the rectangle is " << areaOfRectangle << " cm²." << std::endl;
-    std::cout << "The perimeter of the rectangle is " << perimeterOfRectangle << " cm." << std::endl;
+    std::cout << "Area is " << areaOfRectangle << " cm²." << std::endl;
+    std::cout << "Perimeter is " << perimeterOfRectangle << " cm." << std::endl;
 
     std::cout << "\nDone." << std::endl;
 }
